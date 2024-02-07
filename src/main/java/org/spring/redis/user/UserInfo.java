@@ -14,7 +14,7 @@ public class UserInfo {
     private String name;
 
 
-    private UserInfo() {
+    public UserInfo() {
 
     }
 

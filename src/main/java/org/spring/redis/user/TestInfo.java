@@ -15,7 +15,7 @@ public class TestInfo {
     private String val1;
     private String val2;
 
-    private TestInfo() {
+    public TestInfo() {
     }
 
     @Builder
